@@ -1,4 +1,1 @@
-# websites
-vit logins
-
-vit
+I have developed a website using HTML and CSS specifically for VIT students. This single portal consolidates all essential student and faculty portals, allowing seamless navigation to different services from one centralized location. Students and faculty can access their respective portals efficiently through this unified interface
